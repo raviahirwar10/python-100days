@@ -1,10 +1,10 @@
-# loop and for Loop
-# this type is string 
-name = "ABCDEFJHI"
-for A in name:
-    print(A)
-    if (A=="D"):
-        print("THIS WORD IS special",)
+# # loop and for Loop
+# # this type is string 
+# name = "ABDCEFJHI"
+# for A in name:
+#     print(A)
+#     if (A=="D"):
+#         print("THIS WORD IS special",)
 
 # this type is list
 
