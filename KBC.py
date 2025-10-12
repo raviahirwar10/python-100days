@@ -48,5 +48,4 @@ for i in range(len(questions)):
      break
     
     
-
 print(f"\n game over . you won a total of ${total}")
