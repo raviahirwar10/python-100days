@@ -1,5 +1,5 @@
 #reading a python file
-f = open('day37.py','r')
+f = open('day36code.py','r')
 py= f.read()
 print(py)
 print(type(py))
@@ -9,7 +9,7 @@ f.close()
 #f.write("#hallo world!")
 #f.close()
 
-with open('day37.py','r') as f: 
+with open('day36code.py','r') as f: 
    py= f.read()
    print(py)
    print(type(py))
