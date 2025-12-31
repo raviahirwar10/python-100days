@@ -5,13 +5,13 @@ def greet(fx):
     fx(*args,**kwargs)
     print("thankyou for using this programe ")
  return mfx
-# @greet
-# def hello():
-#     print("heloo world")
+@greet
+def hello():
+    print("heloo world")
     
 @greet
 def add(a,b):
     print(a+b)
     
-# hello()
+hello()
 add(9,4)
